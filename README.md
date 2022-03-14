@@ -1,4 +1,4 @@
-# sleepanda - Ju Seok, LEE(이주석)
+# Ju Seok, LEE(이주석)
 -------------------------   
 ## I learning Penetration Testing
 + 현재 대덕소프트웨어 마이스터고등학교에서 모의해킹 프로젝트를 진행하고 있습니다. 
