@@ -11,7 +11,7 @@ Main : C, Python, Javascript
 Sub : Shell Script, PHP, Java, C++, Go
 
 ## <center> My Skill </center>  
-Main : Django, Express.js, Flask, NodeJS, Apache, MySQL, Docker  
+Main : Express.js, Flask, NodeJS, Apache, MySQL, Docker  
 Sub : Nest.js, Next.js, MongoDB, Oracle DB 
  
 ## <center> My Tool </center> <br>
