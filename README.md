@@ -16,7 +16,7 @@ Sub : Nest.js, Next.js, MongoDB, Oracle DB
  
 ## <center> My Tool </center> <br>
 Main : Burp Suite, Cisco Packet Tracer, SQLMap  
-Sub : Frida, Wire Shark, IDA
+Sub : Frida, Wire Shark, IDA   
 Learn : Ghidra
 
 ## <center> My Operating System </center> <br>
