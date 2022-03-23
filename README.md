@@ -15,7 +15,7 @@ Main : Express.js, Flask, NodeJS, Apache, MySQL, Docker
 Sub : Nest.js, Next.js, MongoDB, Oracle DB 
  
 ## <center> My Tool </center> <br>
-Main : Burp Suite, Cisco Packet Tracer, SQLMap  
+Main : Burp Suite, Cisco Packet Tracer, HxD     
 Sub : Frida, Wire Shark, IDA   
 Learn : Ghidra
 
