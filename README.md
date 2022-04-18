@@ -27,4 +27,4 @@ Learn : Ghidra
 ## ConTact  <br>
 Own mail - [light.juseok4523@gmail.com](light.juseok4523@gmail.com)  
 Team mail - [team.info422@gmail.com](team.info422@gmail.com)    
-Blog - [sleepanda4523@github.io](https://sleepanda4523.github.io/)
+Blog - [sleepanda4523.github.io](https://sleepanda4523.github.io/)
